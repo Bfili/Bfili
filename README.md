@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Filip and I'm currently a student at the Poznan University of Technology in the field of Automatic Control and Robotics. 
+My name is Filip and I'm currently a student at the Poznan University of Technology in the field of Information Technologies with speciality in IoT systems. I recently graduated with a Bachelor of Engineering in Automatic Control and Robotics. 
 
 <!--
 **Bfili/Bfili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 My current main goal is to learn more about home automation and IoT topics 
-- :mortar_board: I'm currently taking courses on topics connected with programming for Android systems using Kotlin and Android Studio as well as learning basics of KNX systems (the second one is especially hard, because it's near impossible without appropriate equipment, which is only avaiable at the university)
-- ⚡ Fun fact: I love running :running: and dancing in electro-swing style :dancer: 
-
+- 🔭 My current main goal is to learn more about home automation and IoT topics, as well as improve my programming skills.
+- :mortar_board: I'm currently taking courses on topics connected with intelligent control systems in IoT and mobile applications.
+- 🔎 I'm actively seeking a job connected with IoT or embedded technologies.
 
 ### My languages and skills
 [<img align="left" alt="Python" width="55px" src="https://github.com/devicons/devicon/blob/v2.15.0/icons/python/python-original.svg" style="padding-right:10px;" />][python]
@@ -35,3 +34,29 @@ Here are some ideas to get you started:
 [c]: https://en.cppreference.com/w/c/language
 [cpp]: https://en.cppreference.com/w/
 [stm32]: https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html
+
+<br/>
+
+## 📫 Contact Information
+If you'd like to get in touch, you can reach me via: <br/>
+[![Gmail](https://img.icons8.com/fluent/48/000000/gmail-new.png)](mailto:filipbochniak2012@gmail.com)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/filip-bochniak-78a4331b4)
+
+<br/>
+
+## 📈 Statistics
+Here are some statistics about my work on Github:
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Bfili&show_icons=true&count_private=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Bfili&show_icons=true&count_private=true&theme=bright"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bfili&show_icons=true&count_private=true&theme=bright" />
+</picture>
+
+![](https://komarev.com/ghpvc/?username=Bfili&label=Views&color=green)
