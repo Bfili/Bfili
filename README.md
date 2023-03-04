@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - :mortar_board: I'm currently taking courses on topics connected with intelligent control systems in IoT and mobile applications.
 - 🔎 I'm actively seeking a job connected with IoT or embedded technologies.
 
+<br/>
+
 ### My languages and skills
 [<img align="left" alt="Python" width="55px" src="https://github.com/devicons/devicon/blob/v2.15.0/icons/python/python-original.svg" style="padding-right:10px;" />][python]
 [<img align="left" alt="C" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.0/icons/c/c-original.svg" style="padding-right:10px;" />][c]
@@ -35,6 +37,7 @@ Here are some ideas to get you started:
 [cpp]: https://en.cppreference.com/w/
 [stm32]: https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html
 
+<br/>
 <br/>
 
 ## 📫 Contact Information
