@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 📫 Contact Information
 If you'd like to get in touch, you can reach me via: <br/>
-[![Gmail](https://img.icons8.com/fluent/48/000000/gmail-new.png)](mailto:filipbochniak2012@gmail.com)
+[![Gmail](https://img.icons8.com/fluent/48/000000/gmail-new.png)](mailto:filipbochniak2@gmail.com)
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/filip-bochniak-78a4331b4)
 
 <br/>
